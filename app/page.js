@@ -7,8 +7,8 @@ function Home() {
   return (
     <div id='main'>
       <ThemeProvider>
-      <Main/>
-      <ThemeToggleButton/>
+        <Main />
+        <ThemeToggleButton />
       </ThemeProvider>
     </div>
   )
